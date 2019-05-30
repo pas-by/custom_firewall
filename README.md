@@ -1,2 +1,2 @@
 # custom_firewall
-demo custom firewall setting in Linux
+demo custom Linux firewall script setting
